@@ -58,7 +58,7 @@ The Ni3D system is modular and includes:
 - **Real-time multi-angle image capture**.
 - **3D-Printed Frame** for camera mounting.
 
-![System Architecture](image/system_architecture.jpg)
+![System Architecture](daigrams_images/systemdesign.png)
 ![Ni3D 1.0 Prototype](image/ni3d_1_0_prototype.jpg)
 
 ---
@@ -82,7 +82,7 @@ The Ni3D system is modular and includes:
 - **Consistent results** across sessions due to improved lighting and stability.
 
 ![Input Images](image/image_capture_views.jpg)
-![3D Reconstruction Output](image/reconstruction_output.jpg)
+![3D Reconstruction Output](daigrams_images/reults.png)
 
 ---
 
