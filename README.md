@@ -82,7 +82,7 @@ The Ni3D system is modular and includes:
 - **Consistent results** across sessions due to improved lighting and stability.
 
 ![Input Images](image/image_capture_views.jpg)
-![3D Reconstruction Output](daigrams_images/reults.png)
+![3D Reconstruction Output](daigrams_images/results.png)
 
 ---
 
